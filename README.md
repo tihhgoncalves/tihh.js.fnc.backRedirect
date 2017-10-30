@@ -21,9 +21,9 @@ P.S.: Caso prefira, você pode fazer o download do projeto manualmente.
   tihh_backRedirect('http://www.tiago.art.br');
   
   /**  
-  Após abrir a página com esse script, clique no 'voltar' do seu navegador.
-  Se tudo der certo, sua página irá para o www.tiago.art.br 
-  como se você tivesse acessado essa página anterioremente)
+    Após abrir a página com esse script, clique no 'voltar' do seu navegador.
+    Se tudo der certo, sua página irá para o www.tiago.art.br 
+    como se você tivesse acessado essa página anterioremente)
    */
    
   </script>
